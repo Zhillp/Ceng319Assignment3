@@ -1,1 +1,12 @@
-# Ceng319Assignment3
+# ProgressBar
+
+## Introduction 
+
+## The History 
+
+## The Major methods and attributes
+
+## The code
+
+## The references 
+
