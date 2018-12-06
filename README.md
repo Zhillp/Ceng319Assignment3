@@ -20,6 +20,16 @@ The ProgressBar widget was introduced in API level 1, but it has become the main
 
 
 ## The Major methods and attributes
+There are a lot of methods that can be used with the Progress Bar widgets, but a few of the methods that can be used for Progress Bar are the following methods:
+
+| Method | Description |
+| ---------- | --------------- |
+| getInterpolator() | This method gets the acceleration curve type for the indeterminate animation|
+| getMax() | This method returns the upper limit of the progress bar range |
+| getMin() | This method returns the lower limit of the progress bar range |
+| getProgress() | This method gets the progress bar’s current level of progress |
+| isAnimating() | This method returns whether the Progress Bar is animating or not |
+|  |  |
 
 ## The code
 
